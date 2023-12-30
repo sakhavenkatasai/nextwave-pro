@@ -335,6 +335,7 @@ details {
 .hearone {
     display: flex;
     margin-top: 60px;
+    margin-left: -22px;
 }
 
 .hearone figure {
